@@ -18,7 +18,7 @@ public class PracticaGift {
     public static void main(String[] args) {
         // TODO code application logic here
     }
-    //JASON CHUQUILLA
+    //JASON 
     //Dartz24
     
 }
